@@ -16,6 +16,7 @@ As an aspiring Business Analyst, I bridge the gap between **technology** and **b
 ---
 
 ## 📌 **Assignment Solutions**
+## OPEN IN COLAB for better understanding
 
 ### 1️⃣ **Most Expensive SKU**
 🔹 **Finding:**  
